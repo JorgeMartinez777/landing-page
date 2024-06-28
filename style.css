@@ -28,6 +28,25 @@
     color: rgb(9, 9, 40);
     font: Roboto;
     font-size: 20px;
+
+    .line12 {
+        color: rgb(113, 118, 212);
+    }
+
+    .line14 {
+        font-size: 40px;
+    }
+}
+
+.fourthbackground {
+    color: rgb(9, 9, 40);
+    background-color: rgb(174, 174, 193);
+    font: Roboto;
+    font-size: 20px;
+
+    .linefour {
+        font-size: 40px;
+    }
 }
 
 .space1 {
