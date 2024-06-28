@@ -2,4 +2,34 @@
     color: rgb(99, 104, 203);
     background-color: white;
     font: Roboto;
+    font-size: 50px;
+}
+
+.darkbackground {
+    color: white;
+    background-color: rgb(9, 9, 40);
+    font: Roboto;
+    font-size: 20px;
+
+    .line2 {
+        font-size: 40px;
+    }
+
+    .line4 {
+        font-size: 58px;
+    }
+
+    .line8 {
+        font-size: 40px;
+    }
+}
+
+.thirdbackground{
+    color: rgb(9, 9, 40);
+    font: Roboto;
+    font-size: 20px;
+}
+
+.space1 {
+    height: 40px;
 }
